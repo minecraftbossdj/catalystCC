@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
 
 [[files]]
@@ -18,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
 
 [[files]]
@@ -56,8 +61,28 @@ hash = "8d7f75549df0be56f22b9c79b86e2de6b6472de71c823ebb42a9cc1f02850a4e"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "6cd0ec36ed34240b4a2f226f9bc3d823a98769be70a3fbf689f5e8510e30f34c"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "74c1a37e77c6235d386006f6430721f557b109d86c6681f6252c4b83908e66ca"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "12255be58b1f8c0caaff2cfe1b97ce6b3c50267c38978fa9035a25c7a0b389e6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "c58aa3ab5aa6873bd3619faa7d50164770d4913c1d878427e7fc76be3b2193eb"
 metafile = true
 
 [[files]]
@@ -108,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/plethora.pw.toml"
 hash = "aa7503360a032570f00f99d1b78c6368c4f796806d7fc2f698c695aa9cfff7ed"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "31e73449b21a0365510dbd8bd3b4a4ece893b0d83cdccc06da39bb07c448b0a7"
 metafile = true
 
 [[files]]
