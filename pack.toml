@@ -1,0 +1,13 @@
+name = "Catalyst CC"
+author = "minecraftbossdj & NullHarp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff70224b6603f4c69229d0245957b07a9aad4a757fdd7c82eb34ab1769910060"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

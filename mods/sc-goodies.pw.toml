@@ -1,0 +1,13 @@
+name = "SwitchCraft Goodies"
+filename = "sc-goodies-1.13.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/glA8M6fC/versions/5Weh9SHf/sc-goodies-1.13.1.jar"
+hash-format = "sha512"
+hash = "e5359d043d8109959dcab26637db6a730c3007a7321163412ff496a62d088c12c1d00fc23d6e89d4d36b2e9ab9f3796029f7eb24b3926194f85d95a7f2eab77e"
+
+[update]
+[update.modrinth]
+mod-id = "glA8M6fC"
+version = "5Weh9SHf"

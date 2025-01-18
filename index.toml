@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "6c1d3514f4f028be06f38c08c5c1d3e77484e9b327a461f5a4b7cf4a91dcf116"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "b4a591850a389b641f1ad0c72a1e1fa74866e4721a480d158f779ac3cf98883e"
+metafile = true
+
+[[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "953a1beeb4f51f10ea7ce7fa66614bda88599d45384ec5981d06519d1c1e4a75"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "af8a0e02b6d8e380087e02fd7441bb7c546d6ab20d5f7642e04925e74cbd7659"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "4d3de174f8914ab199931bb4217ea32370046fc2463c8c84b6cbdf4b710a744c"
+metafile = true
+
+[[files]]
+file = "mods/finer-peripherals.pw.toml"
+hash = "8d7f75549df0be56f22b9c79b86e2de6b6472de71c823ebb42a9cc1f02850a4e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
+file = "mods/large-fluid-tank.pw.toml"
+hash = "41f69206cdd2c93b877bc506cd993d2341f7f51c054a02bcc6e85436a130b3cc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/no-indium.pw.toml"
+hash = "ffaf30ee69ec75b6dc5d0a21ec1bc38db7acb999ee74d250306ca69179a522a0"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "c1a4610db9c69cea47ad2debe778caed0bfdd7b7e6b8430906d364acb642b5b6"
+metafile = true
+
+[[files]]
+file = "mods/plethora.pw.toml"
+hash = "aa7503360a032570f00f99d1b78c6368c4f796806d7fc2f698c695aa9cfff7ed"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+metafile = true
+
+[[files]]
+file = "mods/sc-goodies.pw.toml"
+hash = "605aa0277b9aecf167123df01231476d2e91d43b5983bcb7954e7264a3f68566"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "4db24a7735d93a5d6f8aa7946c839bdc972925b679e5c5649a18f37aa89f08c1"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "6c991e107a958a1eaceb8af1f234cbbb6016a1831981399e0c5c22ba66d32129"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "6ff6b0429de1f90bf1dda00dd2f166c623cb97275d1a204236ec50e914c877a4"
+metafile = true
