@@ -126,6 +126,16 @@ hash = "ffaf30ee69ec75b6dc5d0a21ec1bc38db7acb999ee74d250306ca69179a522a0"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "fad4440d88979732ebe458c748eba57e91c1d18aeb296fb7392bba12b4418e63"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "c1a4610db9c69cea47ad2debe778caed0bfdd7b7e6b8430906d364acb642b5b6"
 metafile = true
